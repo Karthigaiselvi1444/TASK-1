@@ -33,7 +33,7 @@ visualizations are used to provide a comprehensive understanding of the customer
 
 By leveraging data cleaning, exploratory data analysis, and visualization techniques, this project aims to uncover valuable insights into customer behavior based on transactional data. The findings can be used for strategic business decisions, personalized marketing strategies, and improving customer satisfaction.
 
-## Climate_Data_Analysis
+# Climate_Data_Analysis
 Overview
 This data analysis project focuses on analyzing climate data to gain insights into temperature patterns, precipitation trends, and other climatic factors. The goal is to explore historical climate data, identify patterns, and provide valuable information for understanding climate change and its potential impacts.
 
